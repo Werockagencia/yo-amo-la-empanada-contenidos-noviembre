@@ -1,0 +1,198 @@
+[
+  {
+    "n": "09",
+    "dir": "09-tu-semana-resuelta",
+    "title": "Tu semana, resuelta",
+    "cap": "IV · Tu semana, resuelta",
+    "kind": "Carrusel · 6",
+    "date": "Mar 10 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "09-tu-semana-resuelta-1.png",
+      "09-tu-semana-resuelta-2.png",
+      "09-tu-semana-resuelta-3.png",
+      "09-tu-semana-resuelta-4.png",
+      "09-tu-semana-resuelta-5.png",
+      "09-tu-semana-resuelta-6.png"
+    ]
+  },
+  {
+    "n": "10",
+    "dir": "10-lasana-en-5-minutos",
+    "title": "Lasaña lista en 5 minutos",
+    "cap": "IV · Tu semana, resuelta",
+    "kind": "Carrusel · 5",
+    "date": "Jue 12 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "10-lasana-en-5-minutos-1.png",
+      "10-lasana-en-5-minutos-2.png",
+      "10-lasana-en-5-minutos-3.png",
+      "10-lasana-en-5-minutos-4.png",
+      "10-lasana-en-5-minutos-5.png"
+    ]
+  },
+  {
+    "n": "11",
+    "dir": "11-el-queso-que-se-estira",
+    "title": "El queso que se estira",
+    "cap": "IV · Tu semana, resuelta",
+    "kind": "Post · 1 + Historias · 3",
+    "date": "Sáb 14 nov",
+    "time": "10:00 a. m.",
+    "files": [
+      "11-el-queso-que-se-estira-post.png",
+      "11-el-queso-que-se-estira-historia-1.png",
+      "11-el-queso-que-se-estira-historia-2.png",
+      "11-el-queso-que-se-estira-historia-3.png"
+    ]
+  },
+  {
+    "n": "12",
+    "dir": "12-la-lasana-por-dentro",
+    "title": "La lasaña por dentro",
+    "cap": "IV · Tu semana, resuelta",
+    "kind": "Carrusel · 6",
+    "date": "Mar 17 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "12-la-lasana-por-dentro-1.png",
+      "12-la-lasana-por-dentro-2.png",
+      "12-la-lasana-por-dentro-3.png",
+      "12-la-lasana-por-dentro-4.png",
+      "12-la-lasana-por-dentro-5.png",
+      "12-la-lasana-por-dentro-6.png"
+    ]
+  },
+  {
+    "n": "13",
+    "dir": "13-que-empanada-eres",
+    "title": "¿Qué empanada eres?",
+    "cap": "IV · Tu semana, resuelta",
+    "kind": "Carrusel · 6",
+    "date": "Jue 19 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "13-que-empanada-eres-1.png",
+      "13-que-empanada-eres-2.png",
+      "13-que-empanada-eres-3.png",
+      "13-que-empanada-eres-4.png",
+      "13-que-empanada-eres-5.png",
+      "13-que-empanada-eres-6.png"
+    ]
+  },
+  {
+    "n": "14",
+    "dir": "14-tu-vitrina-tu-cafeteria",
+    "title": "Empanadas para tu negocio",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 5",
+    "date": "Sáb 21 nov",
+    "time": "9:00 a. m.",
+    "files": [
+      "14-tu-vitrina-tu-cafeteria-1.png",
+      "14-tu-vitrina-tu-cafeteria-2.png",
+      "14-tu-vitrina-tu-cafeteria-3.png",
+      "14-tu-vitrina-tu-cafeteria-4.png",
+      "14-tu-vitrina-tu-cafeteria-5.png"
+    ]
+  },
+  {
+    "n": "15",
+    "dir": "15-reunion-fin-de-ano",
+    "title": "La reunión de fin de año, resuelta",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 6",
+    "date": "Mar 24 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "15-reunion-fin-de-ano-1.png",
+      "15-reunion-fin-de-ano-2.png",
+      "15-reunion-fin-de-ano-3.png",
+      "15-reunion-fin-de-ano-4.png",
+      "15-reunion-fin-de-ano-5.png",
+      "15-reunion-fin-de-ano-6.png"
+    ]
+  },
+  {
+    "n": "16",
+    "dir": "16-llena-el-congelador",
+    "title": "Llena el congelador: 15 + 1",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 5",
+    "date": "Jue 26 nov",
+    "time": "12:30 p. m.",
+    "files": [
+      "16-llena-el-congelador-1.png",
+      "16-llena-el-congelador-2.png",
+      "16-llena-el-congelador-3.png",
+      "16-llena-el-congelador-4.png",
+      "16-llena-el-congelador-5.png"
+    ]
+  },
+  {
+    "n": "17",
+    "dir": "17-sabado-de-pedidos",
+    "title": "Hoy atendemos hasta las 9 p. m.",
+    "cap": "V · Fin de año",
+    "kind": "Post · 1 + Historias · 3",
+    "date": "Sáb 28 nov",
+    "time": "10:00 a. m.",
+    "files": [
+      "17-sabado-de-pedidos-post.png",
+      "17-sabado-de-pedidos-historia-1.png",
+      "17-sabado-de-pedidos-historia-2.png",
+      "17-sabado-de-pedidos-historia-3.png"
+    ]
+  },
+  {
+    "n": "18",
+    "dir": "18-diciembre-en-bandeja",
+    "title": "Diciembre se sirve en bandeja",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 6",
+    "date": "Mar 1 dic",
+    "time": "12:30 p. m.",
+    "files": [
+      "18-diciembre-en-bandeja-1.png",
+      "18-diciembre-en-bandeja-2.png",
+      "18-diciembre-en-bandeja-3.png",
+      "18-diciembre-en-bandeja-4.png",
+      "18-diciembre-en-bandeja-5.png",
+      "18-diciembre-en-bandeja-6.png"
+    ]
+  },
+  {
+    "n": "19",
+    "dir": "19-lo-que-nos-preguntan",
+    "title": "Lo que nos preguntan",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 6",
+    "date": "Jue 3 dic",
+    "time": "12:30 p. m.",
+    "files": [
+      "19-lo-que-nos-preguntan-1.png",
+      "19-lo-que-nos-preguntan-2.png",
+      "19-lo-que-nos-preguntan-3.png",
+      "19-lo-que-nos-preguntan-4.png",
+      "19-lo-que-nos-preguntan-5.png",
+      "19-lo-que-nos-preguntan-6.png"
+    ]
+  },
+  {
+    "n": "20",
+    "dir": "20-velitas-y-domingo",
+    "title": "Velitas, familia y empanadas",
+    "cap": "V · Fin de año",
+    "kind": "Carrusel · 5",
+    "date": "Sáb 5 dic",
+    "time": "10:00 a. m.",
+    "files": [
+      "20-velitas-y-domingo-1.png",
+      "20-velitas-y-domingo-2.png",
+      "20-velitas-y-domingo-3.png",
+      "20-velitas-y-domingo-4.png",
+      "20-velitas-y-domingo-5.png"
+    ]
+  }
+]

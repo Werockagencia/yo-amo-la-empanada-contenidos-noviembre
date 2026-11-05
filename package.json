@@ -1,0 +1,16 @@
+{
+  "name": "yo-amo-la-empanada-contenidos-noviembre",
+  "private": true,
+  "type": "module",
+  "description": "Yo Amo la Empanada — 12 contenidos organicos (Nº 09 a Nº 20), noviembre-diciembre 2026. Piezas en HTML/CSS exportadas a PNG.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "render": "node scripts/render.mjs",
+    "preview": "node scripts/preview.mjs",
+    "grid": "node scripts/feed-grid.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.0.0",
+    "sharp": "^0.33.0"
+  }
+}
