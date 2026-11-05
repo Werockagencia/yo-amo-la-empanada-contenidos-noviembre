@@ -1,0 +1,7 @@
+Nº 16 · Llena el congelador: 15 + 1
+Publicar: 2026-11-26 a las 12:30
+Formato: Carrusel · 5
+
+Notas:
+- Validar con el negocio: condiciones de la promo 15 + 1 (vigencia, si aplica a precio normal o por mayor) y los precios por mayor.
+- La cuenta del ejemplo: 15 × $17.900 = $268.500.
